@@ -22,6 +22,7 @@
 		7D692BDD1922A02B0045F48B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D692BBC1922A02B0045F48B /* UIKit.framework */; };
 		7D692BE51922A02B0045F48B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7D692BE31922A02B0045F48B /* InfoPlist.strings */; };
 		7D692BE71922A02B0045F48B /* SizeAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D692BE61922A02B0045F48B /* SizeAnimationTests.m */; };
+		7D692BF11922C02D0045F48B /* you_mad_camron.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7D692BF01922C02D0045F48B /* you_mad_camron.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		7D692BE21922A02B0045F48B /* SizeAnimationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SizeAnimationTests-Info.plist"; sourceTree = "<group>"; };
 		7D692BE41922A02B0045F48B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7D692BE61922A02B0045F48B /* SizeAnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SizeAnimationTests.m; sourceTree = "<group>"; };
+		7D692BF01922C02D0045F48B /* you_mad_camron.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = you_mad_camron.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		7D692BBE1922A02B0045F48B /* SizeAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				7D692BF01922C02D0045F48B /* you_mad_camron.jpg */,
 				7D692BC71922A02B0045F48B /* JPAppDelegate.h */,
 				7D692BC81922A02B0045F48B /* JPAppDelegate.m */,
 				7D692BCA1922A02B0045F48B /* Main_iPhone.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D692BF11922C02D0045F48B /* you_mad_camron.jpg in Resources */,
 				7D692BCF1922A02B0045F48B /* Main_iPad.storyboard in Resources */,
 				7D692BD41922A02B0045F48B /* Images.xcassets in Resources */,
 				7D692BCC1922A02B0045F48B /* Main_iPhone.storyboard in Resources */,
